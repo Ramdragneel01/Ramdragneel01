@@ -21,6 +21,7 @@
 I build production AI systems and scalable frontend platforms with a strong focus on trust, observability, and shipping velocity.
 
 - Data Scientist at Accenture India (R&D)
+- Incoming graduate student (MS in CS) at UMass Boston
 - GCP Professional ML Engineer
 - Location: Hyderabad, India
 - Focus: Trustworthy RAG, AI observability, micro-frontend architecture
