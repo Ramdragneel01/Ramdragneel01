@@ -178,3 +178,4 @@ LangGraph-based multi-agent research system with streaming trace visibility and 
 <div align="center">
 <sub>Build in public. Measure in production. Ship with intent.</sub>
 </div>
+<!-- profile-refresh: 2026-04-27T10:20Z -->
