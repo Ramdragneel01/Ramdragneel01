@@ -3,6 +3,7 @@
 
 I build production AI systems and enterprise frontend platforms.
 I care about reliability, observability, and shipping useful software fast.
+Most of my production delivery work is private by design, and the public repositories here are representative demos, reference implementations, and exploratory builds.
 
 - Data Scientist at Accenture India (R&D)
 - GCP Professional ML Engineer
