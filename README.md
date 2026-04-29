@@ -10,6 +10,8 @@ Most of my production delivery work is private by design, and the public reposit
 - Hyderabad, India
 - Portfolio: https://ramdragneel01.github.io/dragon-portfolio/
 - LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
+- Medium:
+https://medium.com/@RamPrakashD
 
 ## Core Focus
 
