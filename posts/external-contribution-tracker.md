@@ -50,13 +50,13 @@ Selected concrete comment candidate:
 
 | Date | Repository | PR URL | Status | One-line impact summary |
 | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | owner/repo | https://github.com/owner/repo/pull/123 | Open or Review-ready or Merged | Example: Added CI fix for flaky test workflow. |
+| 2026-04-29 | langchain-ai/langchain | https://github.com/langchain-ai/langchain/pull/37071 | Open | Clarified `EvaluationResult` and `feedback_config` schema ownership to reduce configuration ambiguity. |
 
 ## Meaningful Issue Comments Log
 
 | Date | Repository | Issue URL | Comment URL | One-line impact summary |
 | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | owner/repo | https://github.com/owner/repo/issues/456 | https://github.com/owner/repo/issues/456#issuecomment-0000000000 | Example: Added reproducible bug steps and root-cause hint. |
+| 2026-04-29 | langchain-ai/langchain | https://github.com/langchain-ai/langchain/issues/31802 | https://github.com/langchain-ai/langchain/issues/31802#issuecomment-4341008022 | Proposed docs-safe clarification approach and requested maintainer guidance on preferred location. |
 
 ## Evidence Quality Rules
 
@@ -67,7 +67,7 @@ Selected concrete comment candidate:
 
 ## Sprint Closeout Summary
 
-1. External PR count delivered:
-2. Issue comment count delivered:
+1. External PR count delivered: 1 (in progress)
+2. Issue comment count delivered: 1 (in progress)
 3. Strongest contribution this sprint:
 4. Follow-up focus for next sprint:
