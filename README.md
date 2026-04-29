@@ -36,7 +36,7 @@ Most of my production delivery work is private by design, and the public reposit
 - Evidence of outcomes: latency, cost, and reliability improvements
 - Small, frequent releases instead of large infrequent drops
 
-## Current Honest Plan
+## Current Plan
 
 1. External contribution proof: complete at least two external PRs and five meaningful issue comments, then publish direct evidence links.
 2. Repository quality uplift: raise `dragon-portfolio` from 4/12 to at least 10/12 checklist coverage.
