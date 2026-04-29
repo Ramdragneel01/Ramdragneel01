@@ -61,8 +61,14 @@ Focus: external open-source visibility and contribution transparency.
 
 | Contribution Track | Target | Status | Evidence |
 | --- | --- | --- | --- |
-| External pull requests | 3 | In progress | To be added as PR URLs |
-| Meaningful issue comments | 5 | In progress | To be added as issue comment URLs |
+| External pull requests | 3 | Not started (0/3) | No public external PRs found as of 2026-04-29 ([query](https://github.com/search?q=is%3Apr+author%3ARamdragneel01+-user%3ARamdragneel01&type=pullrequests&s=updated&o=desc)) |
+| Meaningful issue comments | 5 | Not started (0/5) | No public external issue comments found as of 2026-04-29 ([query](https://github.com/search?q=is%3Aissue+commenter%3ARamdragneel01+-user%3ARamdragneel01&type=issues&s=updated&o=desc)) |
+
+Immediate next actions:
+
+1. Submit first external PR in an active AI tooling repository and add the merged or review-ready link.
+2. Add five meaningful technical issue comments (repro steps, implementation notes, or review feedback).
+3. Update this table at sprint close with direct URLs and one-line impact summaries.
 
 Contribution-note policy:
 
