@@ -23,6 +23,11 @@ Selected concrete candidate:
 4. Suggested PR title: `docs: clarify feedback_config validation behavior for EvaluationResult`
 5. Suggested one-line impact summary: clarifies invalid and partial config handling to reduce silent misconfiguration risk.
 
+Ready-to-post drafts:
+
+1. [Issue comment draft](external-pr1-issue-comment-draft-langchain-31802.md)
+2. [PR description draft](external-pr1-pr-description-draft-langchain-31802.md)
+
 Suggested low-friction PR scopes:
 
 1. README or docs clarity fix with reproducible steps.

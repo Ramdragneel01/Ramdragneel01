@@ -50,7 +50,7 @@ Most of my production delivery work is private by design, and the public reposit
 | Measured outcomes docs | 3 of 6 selected repos |
 | Best checklist coverage | 12/12 |
 | Lowest checklist coverage | 4/12 (`dragon-portfolio`) |
-| External contribution evidence | Tracker and template published, links pending |
+| External contribution evidence | Tracker, template, and ready-to-post PR or comment drafts published |
 
 ## Active Build Cycle
 
@@ -70,10 +70,12 @@ Most of my production delivery work is private by design, and the public reposit
 
 1. [External contribution tracker](posts/external-contribution-tracker.md)
 2. [External contribution evidence template](posts/external-contribution-evidence-template.md)
-3. [Week 11 measured outcomes](posts/week11-measured-outcomes.md)
-4. [Week 12 quarterly audit](posts/week12-quarterly-audit.md)
-5. [Week 12 recap](posts/week12-recap-12-weeks-of-shipping.md)
-6. [2-phase profile and README plan](posts/2-phase-profile-and-readme-execution-plan.md)
+3. [External PR #1 issue comment draft](posts/external-pr1-issue-comment-draft-langchain-31802.md)
+4. [External PR #1 description draft](posts/external-pr1-pr-description-draft-langchain-31802.md)
+5. [Week 11 measured outcomes](posts/week11-measured-outcomes.md)
+6. [Week 12 quarterly audit](posts/week12-quarterly-audit.md)
+7. [Week 12 recap](posts/week12-recap-12-weeks-of-shipping.md)
+8. [2-phase profile and README plan](posts/2-phase-profile-and-readme-execution-plan.md)
 
 ## Tech Stack
 
