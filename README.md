@@ -43,6 +43,25 @@ https://medium.com/@RamPrakashD
 - Two external pull requests each week
 - One technical write-up each month with implementation details
 
+## Week 9 Community Sprint
+
+Focus: external open-source visibility and contribution transparency.
+
+1. External PR target this sprint: 3
+2. Meaningful issue-comment target this sprint: 5
+3. Profile contribution notes and evidence links are tracked below.
+
+| Contribution Track | Target | Status | Evidence |
+| --- | --- | --- | --- |
+| External pull requests | 3 | In progress | To be added as PR URLs |
+| Meaningful issue comments | 5 | In progress | To be added as issue comment URLs |
+
+Contribution-note policy:
+
+1. Include only links to merged or review-ready PRs.
+2. Include only comments that contain technical feedback, reproduction details, or implementation suggestions.
+3. Keep one-line impact summaries for each linked contribution.
+
 ## Tech Stack
 
 Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, Redis, AWS, GCP, Azure
