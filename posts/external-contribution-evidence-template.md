@@ -6,18 +6,20 @@ Use these templates for consistent profile updates.
 ## PR #1 Candidate Block (Copy Ready)
 
 - Date: YYYY-MM-DD
-- Repository: owner/repo
-- PR URL: https://github.com/owner/repo/pull/<PR_NUMBER>
+- Repository: langchain-ai/langchain
+- PR URL: https://github.com/langchain-ai/langchain/pull/<PR_NUMBER>
 - Status: Open or Review-ready or Merged
-- Scope: docs or CI or tests
-- One-line impact summary: Fixes <problem> by <change>; improves <outcome>.
+- Scope: docs and validation behavior clarification for `EvaluationResult.feedback_config`
+- One-line impact summary: clarifies unknown and partial config handling to reduce silent misconfiguration risk.
+
+Reference issue: https://github.com/langchain-ai/langchain/issues/31802
 
 ## Comment #1 Candidate Block (Copy Ready)
 
 - Date: YYYY-MM-DD
-- Repository: owner/repo
-- Issue URL: https://github.com/owner/repo/issues/<ISSUE_NUMBER>
-- Comment URL: https://github.com/owner/repo/issues/<ISSUE_NUMBER>#issuecomment-<COMMENT_ID>
+- Repository: langchain-ai/langchain
+- Issue URL: https://github.com/langchain-ai/langchain/issues/31802
+- Comment URL: https://github.com/langchain-ai/langchain/issues/31802#issuecomment-<COMMENT_ID>
 - Scope: bug reproduction or implementation suggestion or review feedback
 - One-line impact summary: Added technical feedback with actionable next steps.
 
