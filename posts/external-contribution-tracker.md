@@ -9,6 +9,24 @@ Owner: Ram Prakash Dhulipudi
 1. External pull requests: 2 minimum (target stretch: 3).
 2. Meaningful issue comments: 5 minimum.
 
+## PR #1 Candidate Pack (Ready To Fill)
+
+| Date | Repository | PR URL | Status | One-line impact summary |
+| --- | --- | --- | --- | --- |
+| YYYY-MM-DD | owner/repo | https://github.com/owner/repo/pull/<PR_NUMBER> | Open | Fixes <problem> by <change>; improves <outcome>. |
+
+Suggested low-friction PR scopes:
+
+1. README or docs clarity fix with reproducible steps.
+2. CI workflow reliability fix (lint, test, or dependency gate).
+3. Small test coverage addition for an existing edge case.
+
+## Comment #1 Candidate Pack (Ready To Fill)
+
+| Date | Repository | Issue URL | Comment URL | One-line impact summary |
+| --- | --- | --- | --- | --- |
+| YYYY-MM-DD | owner/repo | https://github.com/owner/repo/issues/<ISSUE_NUMBER> | https://github.com/owner/repo/issues/<ISSUE_NUMBER>#issuecomment-<COMMENT_ID> | Added reproducible steps and a concrete implementation hint. |
+
 ## External Pull Requests Log
 
 | Date | Repository | PR URL | Status | One-line impact summary |

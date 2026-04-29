@@ -3,6 +3,24 @@
 
 Use these templates for consistent profile updates.
 
+## PR #1 Candidate Block (Copy Ready)
+
+- Date: YYYY-MM-DD
+- Repository: owner/repo
+- PR URL: https://github.com/owner/repo/pull/<PR_NUMBER>
+- Status: Open or Review-ready or Merged
+- Scope: docs or CI or tests
+- One-line impact summary: Fixes <problem> by <change>; improves <outcome>.
+
+## Comment #1 Candidate Block (Copy Ready)
+
+- Date: YYYY-MM-DD
+- Repository: owner/repo
+- Issue URL: https://github.com/owner/repo/issues/<ISSUE_NUMBER>
+- Comment URL: https://github.com/owner/repo/issues/<ISSUE_NUMBER>#issuecomment-<COMMENT_ID>
+- Scope: bug reproduction or implementation suggestion or review feedback
+- One-line impact summary: Added technical feedback with actionable next steps.
+
 ## Pull Request Evidence Entry
 
 - Date:
