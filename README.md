@@ -10,8 +10,7 @@ Most of my production delivery work is private by design, and the public reposit
 - Hyderabad, India
 - Portfolio: https://ramdragneel01.github.io/dragon-portfolio/
 - LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
-- Medium:
-https://medium.com/@RamPrakashD
+- Medium: https://medium.com/@RamPrakashD
 
 ## Core Focus
 
@@ -36,6 +35,15 @@ https://medium.com/@RamPrakashD
 - Automated checks (lint, test, build) on every meaningful change
 - Evidence of outcomes: latency, cost, and reliability improvements
 - Small, frequent releases instead of large infrequent drops
+
+## Outcomes Snapshot
+
+| Area | Current signal |
+| --- | --- |
+| Flagship repos with measured outcomes docs | 3 |
+| Pinned repo production-checklist coverage (best) | 12/12 |
+| Pinned repo production-checklist coverage (lowest) | 4/12 |
+| Weekly execution cadence | 1 release-quality update |
 
 ## Active Build Cycle
 
@@ -66,7 +74,7 @@ Contribution-note policy:
 
 Focus: measurable impact evidence across recent flagship iterations.
 
-1. Added before-and-after outcomes in three repositories:
+1. Added before-and-after outcomes in three repositories.
 2. [hallucination-lens Week 11 outcomes](https://github.com/Ramdragneel01/hallucination-lens/blob/main/docs/WEEK11_MEASURED_OUTCOMES.md).
 3. [context-watchdog Week 11 outcomes](https://github.com/Ramdragneel01/context-watchdog/blob/main/docs/WEEK11_MEASURED_OUTCOMES.md).
 4. [agentic-research-assistant Week 11 outcomes](https://github.com/Ramdragneel01/agentic-research-assistant/blob/main/docs/WEEK11_MEASURED_OUTCOMES.md).
@@ -115,6 +123,14 @@ Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, Redis, AW
 ## Collaboration
 
 I am open to collaboration on trustworthy AI tooling, evaluation systems, and production ML platform work.
+
+Preferred collaboration topics:
+
+1. RAG faithfulness evaluation and benchmark design.
+2. MLOps reliability and observability loops.
+3. Enterprise frontend platform hardening and release governance.
+
+Response expectation: best effort reply within 2 to 5 business days.
 
 - GitHub: https://github.com/Ramdragneel01
 - LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
