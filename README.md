@@ -11,16 +11,6 @@ Most of my production delivery work is private by design, and the public reposit
 - LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
 - Medium: https://medium.com/@RamPrakashD
 
-## Quick Proof (May 2026)
-
-| Signal | Current evidence |
-| --- | --- |
-| Program delivery cadence | 12 of 12 planned public projects shipped across phases A to C (see Week 12 recap below) |
-| External OSS visibility | 1 external PR opened + 1 meaningful issue comment posted |
-| Measured outcomes documentation | 6 of 6 flagship repos |
-| Partner-portal CODEOWNERS gap | Closed (CODEOWNERS added) |
-| GitHub contribution consistency | 1,210 contributions in the last year |
-
 For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/profile-review-follow-up-may-2026.md)
 
 ## Core Focus
