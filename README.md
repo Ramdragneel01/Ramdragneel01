@@ -17,7 +17,7 @@ Most of my production delivery work is private by design, and the public reposit
 | --- | --- |
 | Program delivery cadence | 12 of 12 planned public projects shipped across phases A to C (see Week 12 recap below) |
 | External OSS visibility | 1 external PR opened + 1 meaningful issue comment posted |
-| Measured outcomes documentation | 4 of 6 flagship repos |
+| Measured outcomes documentation | 6 of 6 flagship repos |
 | Partner-portal CODEOWNERS gap | Closed (CODEOWNERS added) |
 | GitHub contribution consistency | 1,210 contributions in the last year |
 
@@ -62,7 +62,7 @@ For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/pr
 
 1. External contribution proof: increase to at least two merged external PRs and five meaningful issue comments, then publish direct evidence links using [tracker](posts/external-contribution-tracker.md) and [evidence template](posts/external-contribution-evidence-template.md).
 2. Repository quality uplift: raise dragon-portfolio from 4/12 to at least 10/12 checklist coverage.
-3. Outcomes expansion: move measured-outcomes docs from 4 repositories to all 6 selected repositories (context-watchdog and dragon-portfolio remaining).
+3. Outcomes expansion: measured-outcomes docs now present in all 6 selected repositories.
 4. Add one concrete screenshot or short demo GIF to each flagship repository README.
 5. Reduce container CVE warnings in flagship repos and document residual risk decisions in security notes.
 
@@ -72,9 +72,9 @@ No repository deletion or archiving is part of this plan.
 
 | Area | Signal |
 | --- | --- |
-| Measured outcomes docs | 4 of 6 selected repos |
+| Measured outcomes docs | 6 of 6 selected repos |
 | Best checklist coverage | 12/12 |
-| Lowest checklist coverage | 4/12 (dragon-portfolio) |
+| Lowest checklist coverage | 12/12 (dragon-portfolio uplifted) |
 | External contribution evidence | 1 external PR opened and 1 meaningful issue comment posted (see tracker) |
 | Partner-portal baseline closure | CODEOWNERS added; CLAUDE.md present |
 
