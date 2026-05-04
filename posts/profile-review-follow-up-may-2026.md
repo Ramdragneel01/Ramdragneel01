@@ -2,7 +2,6 @@
 
 Date: 2026-05-04
 Owner: Ram Prakash Dhulipudi
-Source: Honest profile review pass focused on recruiter readability and public proof quality.
 
 ## Objective
 
@@ -45,9 +44,3 @@ Improve profile conversion quality without deleting or archiving any repository.
 | README visual proofs | partial | 6/6 | Ram | 2026-05-20 |
 | CVE hardening notes | partial | documented per flagship | Ram | 2026-05-31 |
 | Partner-portal CODEOWNERS | closed (2026-05-04) | maintained | Ram | ongoing |
-
-## Non-Goals
-
-- No repository deletion.
-- No repository archiving.
-- No reduction in shipping cadence to chase cosmetic changes.
