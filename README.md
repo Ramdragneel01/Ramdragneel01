@@ -5,7 +5,7 @@ I care about reliability, observability, and shipping useful software fast.
 Most of my production delivery work is private by design, and the public repositories here are representative demos, reference implementations, and exploratory builds.
 
 - ML Engineer at Accenture India (R&D)
-- GCP Certified Professional Machine Learning Engineer: https://www.credly.com/badges/8c5f8591-32b6-41e7-bacf-5d12780899c3/linked_in_profile
+- GCP Certified Professional Machine Learning Engineer: [https://www.credly.com/badges/8c5f8591-32b6-41e7-bacf-5d12780899c3/linked_in_profile](https://www.credly.com/users/ram-prakash-dhulipudi/badges#credly)
 - Hyderabad, India
 - Portfolio: https://ramdragneel01.github.io/dragon-portfolio/
 - LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
