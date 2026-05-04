@@ -40,10 +40,11 @@ Improve profile conversion quality without deleting or archiving any repository.
 | Workstream | Current | Target | Owner | Due |
 | --- | --- | --- | --- | --- |
 | External OSS proof | 1 PR opened, 1 comment | 2 merged PRs, 5 comments | Ram | 2026-05-31 |
-| Outcomes docs coverage | 3/6 | 6/6 | Ram | 2026-05-31 |
+| Outcomes docs coverage | 4/6 | 6/6 | Ram | 2026-05-31 |
 | dragon-portfolio checklist | 4/12 | >=10/12 | Ram | 2026-05-20 |
-| README visual proofs | 0/6 standardized | 6/6 | Ram | 2026-05-20 |
+| README visual proofs | partial | 6/6 | Ram | 2026-05-20 |
 | CVE hardening notes | partial | documented per flagship | Ram | 2026-05-31 |
+| Partner-portal CODEOWNERS | closed (2026-05-04) | maintained | Ram | ongoing |
 
 ## Non-Goals
 

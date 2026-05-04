@@ -17,7 +17,8 @@ Most of my production delivery work is private by design, and the public reposit
 | --- | --- |
 | Program delivery cadence | 12 of 12 planned public projects shipped across phases A to C (see Week 12 recap below) |
 | External OSS visibility | 1 external PR opened + 1 meaningful issue comment posted |
-| Measured outcomes documentation | 3 of 6 flagship repos |
+| Measured outcomes documentation | 4 of 6 flagship repos |
+| Partner-portal CODEOWNERS gap | Closed (CODEOWNERS added) |
 | GitHub contribution consistency | 1,210 contributions in the last year |
 
 For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/profile-review-follow-up-may-2026.md)
@@ -61,7 +62,7 @@ For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/pr
 
 1. External contribution proof: increase to at least two merged external PRs and five meaningful issue comments, then publish direct evidence links using [tracker](posts/external-contribution-tracker.md) and [evidence template](posts/external-contribution-evidence-template.md).
 2. Repository quality uplift: raise dragon-portfolio from 4/12 to at least 10/12 checklist coverage.
-3. Outcomes expansion: move measured-outcomes docs from 3 repositories to all 6 selected repositories.
+3. Outcomes expansion: move measured-outcomes docs from 4 repositories to all 6 selected repositories (context-watchdog and dragon-portfolio remaining).
 4. Add one concrete screenshot or short demo GIF to each flagship repository README.
 5. Reduce container CVE warnings in flagship repos and document residual risk decisions in security notes.
 
@@ -71,15 +72,16 @@ No repository deletion or archiving is part of this plan.
 
 | Area | Signal |
 | --- | --- |
-| Measured outcomes docs | 3 of 6 selected repos |
+| Measured outcomes docs | 4 of 6 selected repos |
 | Best checklist coverage | 12/12 |
 | Lowest checklist coverage | 4/12 (dragon-portfolio) |
 | External contribution evidence | 1 external PR opened and 1 meaningful issue comment posted (see tracker) |
+| Partner-portal baseline closure | CODEOWNERS added; CLAUDE.md present |
 
 ## Q3 2026 Roadmap
 
 1. Raise `dragon-portfolio` production checklist score from 4/12 to at least 10/12 with architecture, security, and deployment docs.
-2. Close remaining partner-portal checklist gaps by adding `CODEOWNERS` and `.claude/CLAUDE.md`.
+2. Maintain partner-portal baseline (CODEOWNERS and CLAUDE.md now present) and extend release governance evidence.
 3. Add reproducible benchmark artifacts and trend snapshots for all six pinned repositories.
 4. Increase release cadence consistency to one semantic tag per flagship repository each month.
 5. Expand external contribution evidence with merged PR links and concise impact notes every sprint.
