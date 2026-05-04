@@ -11,6 +11,17 @@ Most of my production delivery work is private by design, and the public reposit
 - LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
 - Medium: https://medium.com/@RamPrakashD
 
+## Quick Proof (May 2026)
+
+| Signal | Current evidence |
+| --- | --- |
+| Program delivery cadence | 12 of 12 planned public projects shipped across phases A to C (see Week 12 recap below) |
+| External OSS visibility | 1 external PR opened + 1 meaningful issue comment posted |
+| Measured outcomes documentation | 3 of 6 flagship repos |
+| GitHub contribution consistency | 1,210 contributions in the last year |
+
+For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/profile-review-follow-up-may-2026.md)
+
 ## Core Focus
 
 - Trustworthy RAG: evaluation beyond LLM-as-judge loops
@@ -28,6 +39,17 @@ Most of my production delivery work is private by design, and the public reposit
 | [partner-portal-microfrontends](https://github.com/Ramdragneel01/partner-portal-microfrontends) | Enterprise portal using federated React apps | Improve CI evidence, accessibility, and release flow |
 | [dragon-portfolio](https://github.com/Ramdragneel01/dragon-portfolio) | Public case-study surface for shipped systems | Add measurable impact cards and release snapshots |
 
+## Flagship 6 (Start Here)
+
+| Repository | What reviewers should look for first |
+| --- | --- |
+| [hallucination-lens](https://github.com/Ramdragneel01/hallucination-lens) | Faithfulness scoring approach + benchmark framing |
+| [context-watchdog](https://github.com/Ramdragneel01/context-watchdog) | Policy guardrail patterns for long-running agent workflows |
+| [agentic-research-assistant](https://github.com/Ramdragneel01/agentic-research-assistant) | Multi-agent orchestration and traceability |
+| [mlops-sentinel](https://github.com/Ramdragneel01/mlops-sentinel) | Drift and reliability monitoring loop |
+| [partner-portal-microfrontends](https://github.com/Ramdragneel01/partner-portal-microfrontends) | Enterprise frontend governance and contracts |
+| [dragon-portfolio](https://github.com/Ramdragneel01/dragon-portfolio) | Public case-study index and collaboration entry point |
+
 ## What I Optimize For
 
 - Clear architecture and reproducible setup in every repository
@@ -37,10 +59,13 @@ Most of my production delivery work is private by design, and the public reposit
 
 ## Current Plan
 
-1. External contribution proof: complete at least two external PRs and five meaningful issue comments, then publish direct evidence links using [tracker](posts/external-contribution-tracker.md) and [evidence template](posts/external-contribution-evidence-template.md).
-2. Repository quality uplift: raise `dragon-portfolio` from 4/12 to at least 10/12 checklist coverage.
-3. Baseline closure: add missing `CODEOWNERS` and `.claude/CLAUDE.md` in `partner-portal-microfrontends`.
-4. Outcomes expansion: move measured-outcomes docs from 3 repositories to all 6 selected repositories.
+1. External contribution proof: increase to at least two merged external PRs and five meaningful issue comments, then publish direct evidence links using [tracker](posts/external-contribution-tracker.md) and [evidence template](posts/external-contribution-evidence-template.md).
+2. Repository quality uplift: raise dragon-portfolio from 4/12 to at least 10/12 checklist coverage.
+3. Outcomes expansion: move measured-outcomes docs from 3 repositories to all 6 selected repositories.
+4. Add one concrete screenshot or short demo GIF to each flagship repository README.
+5. Reduce container CVE warnings in flagship repos and document residual risk decisions in security notes.
+
+No repository deletion or archiving is part of this plan.
 
 ## Current Status
 
@@ -48,7 +73,7 @@ Most of my production delivery work is private by design, and the public reposit
 | --- | --- |
 | Measured outcomes docs | 3 of 6 selected repos |
 | Best checklist coverage | 12/12 |
-| Lowest checklist coverage | 4/12 (`dragon-portfolio`) |
+| Lowest checklist coverage | 4/12 (dragon-portfolio) |
 | External contribution evidence | 1 external PR opened and 1 meaningful issue comment posted (see tracker) |
 
 ## Q3 2026 Roadmap
@@ -71,6 +96,7 @@ Most of my production delivery work is private by design, and the public reposit
 8. [Week 12 quarterly audit](posts/week12-quarterly-audit.md)
 9. [Week 12 recap](posts/week12-recap-12-weeks-of-shipping.md)
 10. [2-phase profile and README plan](posts/2-phase-profile-and-readme-execution-plan.md)
+11. [Profile review follow-up (May 2026)](posts/profile-review-follow-up-may-2026.md)
 
 ## Tech Stack
 
