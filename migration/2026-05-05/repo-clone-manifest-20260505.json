@@ -1,0 +1,56 @@
+﻿[
+    {
+        "name":  "copilot-for-readmes",
+        "origin":  "https://github.com/Ramdragneel01/copilot-for-readmes.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "dragon-portfolio",
+        "origin":  "https://github.com/Ramdragneel01/dragon-portfolio.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "infyspaces-platform",
+        "origin":  "https://github.com/Ramdragneel01/infyspaces-platform.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "keras",
+        "origin":  "https://github.com/Ramdragneel01/keras.git",
+        "currentBranch":  "fix-deserialize-invalid-config-22701",
+        "defaultBranch":  "master"
+    },
+    {
+        "name":  "partner-portal-microfrontends",
+        "origin":  "https://github.com/Ramdragneel01/partner-portal-microfrontends.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "pizzeria-fullstack-ordering-platform",
+        "origin":  "https://github.com/Ramdragneel01/pizzeria-fullstack-ordering-platform.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "plagguard",
+        "origin":  "https://github.com/Ramdragneel01/plagguard.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "Ramdragneel01",
+        "origin":  "https://github.com/Ramdragneel01/Ramdragneel01.git",
+        "currentBranch":  "main",
+        "defaultBranch":  "main"
+    },
+    {
+        "name":  "ramdragneel01.github.io",
+        "origin":  "https://github.com/Ramdragneel01/ramdragneel01.github.io.git",
+        "currentBranch":  "master",
+        "defaultBranch":  "master"
+    }
+]
