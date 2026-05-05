@@ -97,8 +97,7 @@ Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, GCP
 ## GitHub Activity
 
 <div align="center">
-	<img width="49%" alt="Top languages chart for Ramdragneel01" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramdragneel01&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-	<img width="49%" alt="GitHub streak chart for Ramdragneel01" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramdragneel01&theme=transparent&hide_border=true" />
+	<img width="50%" alt="GitHub streak chart for Ramdragneel01" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramdragneel01&theme=transparent&hide_border=true" />
 </div>
 
 ## Collaboration
