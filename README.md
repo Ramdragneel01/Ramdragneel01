@@ -97,7 +97,7 @@ Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, GCP
 ## GitHub Activity
 
 <div align="center">
-	<img width="50%" alt="GitHub streak chart for Ramdragneel01" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramdragneel01&theme=transparent&hide_border=true" />
+	<img width="100%" alt="GitHub streak chart for Ramdragneel01" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramdragneel01&theme=transparent&hide_border=true" />
 </div>
 
 ## Collaboration
