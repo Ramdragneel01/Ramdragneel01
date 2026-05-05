@@ -8,12 +8,12 @@
 ### 1.1 Kill the forks
 Remove or unpin these from your profile. They add zero signal and inflate count artificially.
 
-- [ ] `keras`
-- [ ] `langchain`
-- [ ] `pytorch`
-- [ ] `transformers`
+- [x] `keras`
+- [x] `langchain`
+- [x] `pytorch`
+- [x] `transformers`
 
-> Archive them if you want to keep the refs. Don't let them show on your public profile.
+> Archived on 2026-05-05 to keep references while reducing profile noise.
 
 ### 1.2 Consolidate speech emotion
 Three repos for one project looks like abandoned iteration.
@@ -117,7 +117,7 @@ Pin exactly 6. Suggested order:
 
 | Metric | Now | Target |
 |--------|-----|--------|
-| Forks removed from profile | 0 | 4 removed |
+| Forks removed from profile | 0 | 4 archived (cleanup complete) |
 | Repos with live demo | ~1 | 4+ |
 | Flagship READMEs with screenshots | ? | 6/6 |
 | Speech emotion repos | 3 | 1 |

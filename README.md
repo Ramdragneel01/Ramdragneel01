@@ -86,6 +86,7 @@ No deletion or archiving is planned for non-fork repositories. Fork-only cleanup
 | External contribution evidence | 1 external PR opened and 1 meaningful issue comment posted (see tracker) |
 | Partner-portal baseline closure | CODEOWNERS added; CLAUDE.md present |
 | GitHub contributions (last year) | 1,645 |
+| Fork cleanup | 4 forked repositories archived |
 
 ## Q3 2026 Roadmap
 
