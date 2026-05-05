@@ -13,6 +13,16 @@ Most of my production delivery work is private by design, and the public reposit
 
 For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/profile-review-follow-up-may-2026.md)
 
+## Quick Proof (May 2026)
+
+| Signal | Current evidence |
+| --- | --- |
+| GitHub contribution consistency | 1,645 contributions in the last year |
+| Public repository base | 44 public repositories |
+| External OSS visibility | 1 external PR opened + 1 meaningful issue comment |
+| Measured outcomes documentation | 6 of 6 flagship repositories |
+| Delivery focus | Trustworthy AI, reliability engineering, and enterprise frontend platforms |
+
 ## Core Focus
 
 - Trustworthy RAG: evaluation beyond LLM-as-judge loops
@@ -23,12 +33,12 @@ For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/pr
 
 | Repository | Why it exists | Current direction |
 | --- | --- | --- |
-| [hallucination-lens](https://github.com/Ramdragneel01/hallucination-lens) | Measure RAG faithfulness at sentence level | Improve benchmark coverage and CLI usability |
-| [context-watchdog](https://github.com/Ramdragneel01/context-watchdog) | Guardrails for long-running LLM and agent workflows | Add packaging, examples, and policy recipes |
-| [agentic-research-assistant](https://github.com/Ramdragneel01/agentic-research-assistant) | Multi-agent research with traceable orchestration | Add eval harness and cost-aware execution modes |
-| [mlops-sentinel](https://github.com/Ramdragneel01/mlops-sentinel) | Monitor model behavior in production | Strengthen alerting, drift triage, and dashboards |
-| [partner-portal-microfrontends](https://github.com/Ramdragneel01/partner-portal-microfrontends) | Enterprise portal using federated React apps | Improve CI evidence, accessibility, and release flow |
-| [dragon-portfolio](https://github.com/Ramdragneel01/dragon-portfolio) | Public case-study surface for shipped systems | Add measurable impact cards and release snapshots |
+| [hallucination-lens](https://github.com/Ramdragneel01/hallucination-lens) | Measure RAG faithfulness at sentence level | Add 3 benchmark datasets and ship v1 CLI JSON output |
+| [context-watchdog](https://github.com/Ramdragneel01/context-watchdog) | Guardrails for long-running LLM and agent workflows | Publish pip package and policy benchmark report with 3 recipe presets |
+| [agentic-research-assistant](https://github.com/Ramdragneel01/agentic-research-assistant) | Multi-agent research with traceable orchestration | Add deterministic eval suite with citation-faithfulness and cost-tier metrics |
+| [mlops-sentinel](https://github.com/Ramdragneel01/mlops-sentinel) | Monitor model behavior in production | Add alert triage dashboard, SLO thresholds, and monthly trend snapshots |
+| [partner-portal-microfrontends](https://github.com/Ramdragneel01/partner-portal-microfrontends) | Enterprise portal using federated React apps | Publish live mock-auth demo with badge and accessibility evidence |
+| [dragon-portfolio](https://github.com/Ramdragneel01/dragon-portfolio) | Public case-study surface for shipped systems | Add quantified impact cards and monthly release radar updates |
 
 ## Flagship 6 (Start Here)
 
@@ -48,15 +58,23 @@ For the latest execution updates: [Profile Review Follow-Up (May 2026)](posts/pr
 - Evidence of outcomes: latency, cost, and reliability improvements
 - Small, frequent releases instead of large infrequent drops
 
+## New Pin Candidate (3-Week Build)
+
+I am building **AI Reliability Chaos Lab** as the next flagship project to pin.
+
+- Plan document: [AI Reliability Chaos Lab - 3-week build plan](posts/ai-reliability-chaos-lab-3-week-plan.md)
+- Target outcome: a production-grade reliability chaos platform for LLM and agent systems with reproducible failure scenarios, mitigation policies, and release-grade evidence.
+- Pin-ready target: semantic release `v1.0.0` after week 3 validation and documentation hardening.
+
 ## Current Plan
 
 1. External contribution proof: increase to at least two merged external PRs and five meaningful issue comments, then publish direct evidence links using [tracker](posts/external-contribution-tracker.md) and [evidence template](posts/external-contribution-evidence-template.md).
-2. Repository quality uplift: raise dragon-portfolio from 4/12 to at least 10/12 checklist coverage.
-3. Outcomes expansion: measured-outcomes docs now present in all 6 selected repositories.
+2. Replace remaining placeholder metrics with measured numbers in all flagship README results blocks.
+3. Keep release cadence consistent with one semantic tag per flagship repository each month.
 4. Add one concrete screenshot or short demo GIF to each flagship repository README.
 5. Reduce container CVE warnings in flagship repos and document residual risk decisions in security notes.
 
-No repository deletion or archiving is part of this plan.
+No deletion or archiving is planned for non-fork repositories. Fork-only cleanup is in scope.
 
 ## Current Status
 
@@ -67,6 +85,7 @@ No repository deletion or archiving is part of this plan.
 | Lowest checklist coverage | 12/12 (dragon-portfolio uplifted) |
 | External contribution evidence | 1 external PR opened and 1 meaningful issue comment posted (see tracker) |
 | Partner-portal baseline closure | CODEOWNERS added; CLAUDE.md present |
+| GitHub contributions (last year) | 1,645 |
 
 ## Q3 2026 Roadmap
 
