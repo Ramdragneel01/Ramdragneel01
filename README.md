@@ -1,14 +1,16 @@
 # Ram Prakash Dhulipudi
 
-**ML Engineer at Accenture (R&D)** building AI systems and enterprise frontend platforms.
+**MSc Advanced Computer Science @ University of Liverpool (Sep 2026)**
+Full Stack & ML Engineer with 4 years building production AI systems and enterprise platforms.
 I care about reliability, observability, and shipping useful software fast.
 
-Most of my delivery work is private, so the public repos here are reference implementations and exploratory builds around three themes: trustworthy RAG, ML observability, and micro-frontend platforms.
+The public repos here are reference implementations and exploratory builds around three themes:
+trustworthy RAG, ML observability, and micro-frontend platforms.
 
-- GCP Professional Machine Learning Engineer ([Credly](https://www.credly.com/users/ram-prakash-dhulipudi/badges))
-- Portfolio: https://ramdragneel01.github.io/dragon-portfolio/
-- LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
-- Medium: https://medium.com/@RamPrakashD
+- 🏅 GCP Professional Machine Learning Engineer ([Credly](https://www.credly.com/users/ram-prakash-dhulipudi/badges))
+- 🌐 Portfolio: https://ramdragneel01.github.io/dragon-portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
+- ✍️ Medium: https://medium.com/@RamPrakashD
 
 ## Featured work
 
@@ -22,12 +24,12 @@ Most of my delivery work is private, so the public repos here are reference impl
 
 ## Tech stack
 
-Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, GCP
+Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, GCP, AWS
 
-## Open to collaborate
+## Open to
 
-Trustworthy RAG evaluation, MLOps reliability loops, and enterprise micro-frontend work.
-Best-effort reply within a few business days.
+Year in Industry placements and internships in ML Engineering, MLOps, Full Stack, or AI systems.
+UK, EU, India, or US. Starting September 2026.
 
-- GitHub: https://github.com/Ramdragneel01
-- LinkedIn: https://linkedin.com/in/ramprakashdhulipudi
+Reach me on [LinkedIn](https://linkedin.com/in/ramprakashdhulipudi) — fastest path.
+
