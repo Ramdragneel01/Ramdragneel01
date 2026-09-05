@@ -24,7 +24,12 @@ trustworthy RAG, ML observability, and micro-frontend platforms.
 
 ## Tech stack
 
-Python, FastAPI, LangGraph, TypeScript, React, Nx, Docker, PostgreSQL, GCP, AWS
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,nodejs,docker,postgres,gcp,aws,git" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,kubernetes,mongodb,github" />
+</p>
 
 ## Open to
 
