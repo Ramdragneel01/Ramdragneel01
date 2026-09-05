@@ -34,7 +34,7 @@ trustworthy RAG, ML observability, and micro-frontend platforms.
 ## Open to
 
 Year in Industry placements and internships in ML Engineering, MLOps, Full Stack, or AI systems.
-UK, EU, India, or US. Starting September 2026.
+UK, EU, or US. Starting September 2026.
 
 Reach me on [LinkedIn](https://linkedin.com/in/ramprakashdhulipudi) — fastest path.
 
